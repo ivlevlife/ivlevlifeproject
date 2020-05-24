@@ -1,0 +1,2 @@
+rootProject.name='ivlevlifeproject'
+include ':app'
